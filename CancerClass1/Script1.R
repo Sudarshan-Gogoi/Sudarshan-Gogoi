@@ -2,6 +2,7 @@
 # cancer obtained from 10x Genomics database by applying the methodology mentioned in our paper named 
 # "An integrated computational framework utilizing single-cell genomics for precise classification and prediction of multiple cancer types" 
 # by Sudarshan Gogoi, Soumen Bera and Amit Chakraborty
+# RStudio Version: 2023.12.1 (402)
 # Example file used for illustration: "V1_Breast_Cancer_Block_A_Section_1_filtered_feature_bc_matrix.h5"
 # The code provides analysis of the Breast cancer Dataset (b) as an example
 # Load libraries
