@@ -3,7 +3,7 @@
 library(tidyr)
 library(ggplot2)
 library(cowplot)
-# Load CancersNormData.csv in R studio
+# Load CancersNormData.csv in R studio (RStudio Version: 2023.12.1 (402))
 data <- read.csv("D:/My PhD information folder first Paper/Data Analysis in R Modified/CancersNormData.csv")
 # Stacked line plots of Breast cancer training datasets
 data1 <- data[, c("Threshold", "Norm.B.a.", "Norm.B.b.")]
