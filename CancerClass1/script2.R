@@ -2,7 +2,7 @@
 # Check the normalized similarity percentage between two similar cancer type training datasets' norm values
 # Check the normalized similarity percentage of a validation or test dataset with the training datasets(norm values)
 library(dplyr)
-# Load CancersNormData.csv in R studio
+# Load CancersNormData.csv in R studio (RStudio Version: 2023.12.1 (402))
 data <- read.csv("D:/My PhD information folder first Paper/Data Analysis in R Modified/CancersNormData.csv")
 {
 # Select all pairs of columns for comparison
